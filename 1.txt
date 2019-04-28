@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 new555
 2fdfdf
 3fdlkfdjfl
+=======
+new
+>>>>>>> 线上已改变
